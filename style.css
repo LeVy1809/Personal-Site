@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.top-container {
+    background-color: #fff7f1;
+    padding-top: 100px;
+    position: relative;
+    height: 800px;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    color: #737373;
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    color: #737377;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    line-height: 2;
+}
+
+#top-flower {
+    position: absolute;
+    height: 150px;
+    top: 50px;
+    right: 150px;
+}
+
+#bottom-flower {
+    position: absolute;
+    height: 200px;
+    left: 150px;
+}
+
+#paper {
+    width: 100%;
+    top: 500px;
+}
+
+.profile {
+    text-align: center;
+    
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+#my-pic {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.middle-container {
+    padding: 200px 50px 100px;
+    background-color: #FFE4C9;
+}
+
+hr {
+    margin: 50px auto;
+    width: 10%;
+}
+
+p {
+    font-size: 18px;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    width: 75%;
+    row-gap: 2rem;
+}
+
+h3 {
+    font-family:'Courier New', Courier, monospace;
+    color: #737377;
+    display: block;
+    font-size: 24px;
+}
+
+.image {
+    width: 500px;
+    height: 500px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.btn {
+    background: #E78895;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: #737373;
+    border-radius: 8px;
+    margin: 50px auto 0;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #BED1CF;
+    padding: 50px 0 20px;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px 20px;
+    color: #737373;
+    font-size: 20px;
+}
+
+.copyright {
+    color: #737373;
+    font-size: 16px;
+    margin-top: 50px;
+}
